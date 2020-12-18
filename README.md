@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
-Open []() to view monsters-rolodex.
+Open [https://payaldhiman.github.io/monsters-rolodex/](https://payaldhiman.github.io/monsters-rolodex/) to view monsters-rolodex.
 
 ## Available Scripts
 
